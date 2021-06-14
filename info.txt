@@ -1,0 +1,14 @@
+Instalaciones de paquetes:
+    npm i express
+    npm i cors
+    npm i dotenv
+
+
+Socket.IO, es una implementacion de web socket
+Manejador de socket 
+    npm i socket.io
+
+Verificar si todo esta instalado:
+    http://localhost:7010/socket.io/socket.io.js  => eso es un path que esta creando automaticamente mi servidor de web socket 
+
+    
